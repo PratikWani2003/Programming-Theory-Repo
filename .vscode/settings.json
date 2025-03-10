@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Prototype_1.sln",
+    "dotnet.defaultSolution": "Programming-Theory-Repo.sln",
     "terminal.integrated.cursorStyle": "line",
     "editor.overtypeCursorStyle": "line"
 }
